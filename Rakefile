@@ -7,7 +7,7 @@ require "bourbon"
 
 # Change your GitHub reponame
 GITHUB_REPONAME = "SnailWalkerYC/daydayup"
-GITHUB_REPO_BRANCH = "master"
+GITHUB_REPO_BRANCH = "ph-pages"
 
 SOURCE = "source/"
 DEST = "_site"
